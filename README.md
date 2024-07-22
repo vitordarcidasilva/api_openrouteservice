@@ -38,3 +38,13 @@ http://localhost:8080/ors/v2/status
 docker compose logs -tf
 ```
 
+## Testando a APi
+
+obs: Precisamos colocar as latitude e longitude invertidas.
+
+```bash
+http://localhost:8080/ors/v2/directions/driving-car?&start=-46.5258548,-23.4318942,&end=-46.525788,-23.452317)
+```
+
+
+
