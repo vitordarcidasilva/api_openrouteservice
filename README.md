@@ -11,4 +11,5 @@ mkdir -p ors-docker/config ors-docker/elevation_cache ors-docker/graphs ors-dock
 
 #Para facilitar deixei o arquivo docker-compose.yml pré configurado para o Brazil então podemos apenas executar o comando abaixo.
 
-```sh docker compose up -d
+```sh
+docker compose up -d
