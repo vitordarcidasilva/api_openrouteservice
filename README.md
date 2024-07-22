@@ -7,7 +7,7 @@ Este projeto configura e executa a API OpenRouteService com Docker.
 Antes de iniciar, certifique-se de criar os seguintes diretórios:
 
 ```bash
-mkdir -p ors-docker/config ors-docker/elevation_cache ors-docker
+mkdir -p ors-docker/config ors-docker/elevation_cache ors-docker/graphs ors-docker/files ors-docker/logs
 ```
 
 ## Estruções docker 
