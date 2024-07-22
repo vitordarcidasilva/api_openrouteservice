@@ -10,3 +10,6 @@ Antes de iniciar, certifique-se de criar os seguintes diretórios:
 mkdir -p ors-docker/config ors-docker/elevation_cache ors-docke
 ```
 
+```bash
+mkdir -p ors-docker/config ors-docker/elevation_cache ors-docke
+```
