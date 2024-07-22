@@ -20,3 +20,15 @@ wget https://download.geofabrik.de/south-america/brazil-latest.osm.pbf
 ```bash
 sudo mv brazil-latest.osm.pbf ./Files 
 ```
+
+## Inciando a aplicação 
+
+```bash
+docker-compose up -d
+```
+## Verificando status da api
+
+```bash
+http://localhost:8080/ors/v2/status
+```
+
