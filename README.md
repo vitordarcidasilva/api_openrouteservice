@@ -32,3 +32,10 @@ docker-compose up -d
 http://localhost:8080/ors/v2/status
 ```
 
+```
+## Verificando logs docker
+
+```bash
+docker compose logs -tf
+```
+
