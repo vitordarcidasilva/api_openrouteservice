@@ -6,10 +6,7 @@ Este projeto configura e executa a API OpenRouteService com Docker.
 
 Antes de iniciar, certifique-se de criar os seguintes diretórios:
 
-```sh
+```bash
 mkdir -p ors-docker/config ors-docker/elevation_cache ors-docke
+```
 
-
-~~php
-Esta é uma linha de código em PHP.
-~~
