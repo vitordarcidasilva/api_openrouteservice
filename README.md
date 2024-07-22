@@ -18,7 +18,7 @@ Obs: Deixei o arquivo docker-compose.yml pronto para utilizaçao dentro do Brazi
 wget https://download.geofabrik.de/south-america/brazil-latest.osm.pbf
 ```
 ```bash
-sudo mv brazil-latest.osm.pbf ./Files 
+sudo mv brazil-latest.osm.pbf ./files
 ```
 
 ## Inciando a aplicação 
